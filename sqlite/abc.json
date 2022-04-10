@@ -1,0 +1,148 @@
+{
+    "dataset": "WenetSpeech",
+    "attention": "WenetSpeech does not own the copyright of the audio files, you can follow the provided url to access the original audio",
+    "language": "ZH-CHS",
+    "version": "0.1.0",
+    "date": "2021-10-01",
+    "license": "CC-BY-4.0",
+    "description": "WenetSpeech is a 10000+ hours dataset for Chinese speech recognition",
+    "contributors": [
+        "Mobvoi Inc",
+        "Northwestern Polytechnical University",
+        "AISHELL Technology",
+        "wenet-e2e"
+    ],
+    "audios": [
+        {
+            "aid": "Y0000000000_--5llN02F841",
+            "duration": 2494.57,
+            "md5": "48af998ec7dab6964386c3522386fa4b",
+            "path": "audio/train/youtube/B00000/Y0000000000_--5llN02F84.opus",
+            "source": "youtube",
+            "tags": [
+                "drama"
+            ],
+            "url": "https://www.youtube.com/watch?v=--5llN02F84",
+            "segments": [
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000001",
+                    "confidence": 1.0,
+                    "begin_time": 20.08,
+                    "end_time": 24.4,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "怎么样这些日子住得还习惯吧"
+                },
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000022",
+                    "confidence": 1.0,
+                    "begin_time": 25.0,
+                    "end_time": 26.28,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "挺好的"
+                },
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000033",
+                    "confidence": 1.0,
+                    "begin_time": 26.68,
+                    "end_time": 30.48,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "对了美静这段日子经常不和我们一起用餐"
+                }
+            ]
+        },
+        {
+            "aid": "Y0000000000_--5llN02F842",
+            "duration": 2494.57,
+            "md5": "48af998ec7dab6964386c3522386fa4b",
+            "path": "audio/train/youtube/B00000/Y0000000000_--5llN02F84.opus",
+            "source": "youtube",
+            "tags": [
+                "drama"
+            ],
+            "url": "https://www.youtube.com/watch?v=--5llN02F84",
+            "segments": [
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000004",
+                    "confidence": 1.0,
+                    "begin_time": 20.08,
+                    "end_time": 24.4,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "怎么样这些日子住得还习惯吧"
+                },
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000025",
+                    "confidence": 1.0,
+                    "begin_time": 25.0,
+                    "end_time": 26.28,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "挺好的"
+                },
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000036",
+                    "confidence": 1.0,
+                    "begin_time": 26.68,
+                    "end_time": 30.48,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "对了美静这段日子经常不和我们一起用餐"
+                }
+            ]
+        },
+        {
+            "aid": "Y0000000000_--5llN02F843",
+            "duration": 2494.57,
+            "md5": "48af998ec7dab6964386c3522386fa4b",
+            "path": "audio/train/youtube/B00000/Y0000000000_--5llN02F84.opus",
+            "source": "youtube",
+            "tags": [
+                "drama"
+            ],
+            "url": "https://www.youtube.com/watch?v=--5llN02F84",
+            "segments": [
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000007",
+                    "confidence": 1.0,
+                    "begin_time": 20.08,
+                    "end_time": 24.4,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "怎么样这些日子住得还习惯吧"
+                },
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000028",
+                    "confidence": 1.0,
+                    "begin_time": 25.0,
+                    "end_time": 26.28,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "挺好的"
+                },
+                {
+                    "sid": "Y0000000000_--5llN02F84_S000039",
+                    "confidence": 1.0,
+                    "begin_time": 26.68,
+                    "end_time": 30.48,
+                    "subsets": [
+                        "L"
+                    ],
+                    "text": "对了美静这段日子经常不和我们一起用餐"
+                }
+            ]
+        }
+    ]
+}
+
+
